@@ -3,7 +3,7 @@
 ## 👥 Anggota Kelompok
 
 1. Kelvin alfattama
-2. Baihaqqi Nur Rizki
+2. Baihaqqi Nur Rizqi
 
 ## 📝 Deskripsi
 
@@ -30,4 +30,5 @@ Aplikasi catatan sederhana berbasis Flutter yang bisa menambah, menampilkan, dan
    flutter pub get
    flutter run -d chrome
    ```
+
 
